@@ -44,7 +44,7 @@ export function WelcomeBanner() {
 
   return (
     <Welcome>
-      <img src={bannerImageUrl} alt="Felt Casino Banner" />
+      <img src={bannerImageUrl} alt="Casino Banner" />
       <div>
         <h1>gm🐓</h1>
         <p>Life. Is. Just. A. Game.</p>

@@ -4,6 +4,7 @@ import { SlideSection } from '../../components/Slider'
 import { GAMES } from '../../games'
 import { GameCard } from './GameCard'
 import { WelcomeBanner } from './WelcomeBanner'
+// import { footer } from './WelcomeBanner'
 
 export function GameSlider() {
   return (
