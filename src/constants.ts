@@ -36,7 +36,7 @@ export const TOKENS: TokenMeta[] = [
     symbol: 'WL THESUPERSOL',
     name: '$wlTSOS',
     image: "https://harlequin-payable-basilisk-127.mypinata.cloud/ipfs/QmUZLVfD1JStTADHshkQjrikR4UXAfWvkdyqZwz7j4peuj",
-    decimals: 8,
+    decimals: 9,
     baseWager: 1,
   },
 ]

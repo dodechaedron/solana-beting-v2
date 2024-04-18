@@ -40,7 +40,7 @@ const Welcome = styled.div`
 `;
 
 export function WelcomeBanner() {
-  const bannerImageUrl = './feltbanner.png';
+  const bannerImageUrl = './poster.png';
 
   return (
     <Welcome>
