@@ -49,8 +49,8 @@ export function WelcomeBanner() {
         <h1>gm🐓</h1>
         <p>Life. Is. Just. A. Game.</p>
       </div>
-      <Button onClick={() => window.open('https://jup.ag/swap/SOL-GMCOCK_8CSTYs264XFrGym2WLy6QGgq6isxU8G4Und9q1gVbbbB', '_blank')}>
-        🪙 Buy $GMCOCK
+      <Button onClick={() => window.open('https://jup.ag/swap/', '_blank')}>
+        🪙 Buy $BetSol
       </Button>
     </Welcome>
   );
