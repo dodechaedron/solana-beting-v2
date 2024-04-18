@@ -5,7 +5,7 @@ import { PublicKey } from '@solana/web3.js'
 export const RPC_ENDPOINT = import.meta.env.VITE_RPC_ENDPOINT ?? "https://api.mainnet-beta.solana.com"
 
 // Change this value to your Solana address
-export const PLATFORM_CREATOR_ADDRESS = new PublicKey('6715ymvd38EeSQjZ3vRSA9X68RC73GYynSNRn3pu5732')
+export const PLATFORM_CREATOR_ADDRESS = new PublicKey('AxBQnM9Txini7B8YZXpXAzhyF1z6pDgz5xVc6doJqZo5')
 
 // Appears in ShareModal
 export const PLATFORM_SHARABLE_URL = 'v2-play.gamba.so'
