@@ -71,7 +71,7 @@ export default function Header() {
       <StyledHeader>
         <div style={{ display: 'flex', gap: '20px', alignItems: 'center' }}>
           <Logo to="/">
-            <img alt="betsol logo" src="/favicon.png" />
+            <img alt="betsol logo" src="https://www.thesupersol.net/assets/images/logo-website-1-594x120.png" />
           </Logo>
         </div>
         <div style={{ display: 'flex', gap: '10px', alignItems: 'center', position: 'relative' }}>
